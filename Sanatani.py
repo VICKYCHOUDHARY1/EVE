@@ -455,10 +455,7 @@ async def start_message_private(client, message):
 
         caption = f"""╭───────────────────▣
 │**❍ ʜᴇʏ {mention} •**
-│**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ •**
-├───────────────────▣**
-│**❍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ ᴠɪꜱɪᴛ [ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ](https://t.me/prishus_support) •**
-│**❍ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇꜱ [ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ](https://t.me/krishu_supports) •**
+│**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ  •**
 ├───────────────────▣**
 │**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
 │**❍ ᴍᴀᴅᴇ ʙʏ...[sᴡᴇᴇᴛ & sɪᴍᴘʟᴇ ʀᴀᴊ](https://t.me/CaLL_mE_ShiiV) •**
@@ -538,10 +535,7 @@ async def back_to_home_menu(client, query):
     mention = query.from_user.mention
     caption = f"""╭───────────────────▣
 │**❍ ʜᴇʏ {mention} •**
-│**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ •**
-├───────────────────▣**
-│**❍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ ᴠɪꜱɪᴛ [ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ](https://t.me/prishus_support) •**
-│**❍ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇꜱ [ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ](https://t.me/krishu_supports) •**
+│**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ  •**
 ├───────────────────▣**
 │**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
 │**❍ ᴍᴀᴅᴇ ʙʏ...[sᴡᴇᴇᴛ & sɪᴍᴘʟᴇ ʀᴀᴊ](https://t.me/CaLL_mE_ShiiV) •**
