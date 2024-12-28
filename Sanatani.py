@@ -80,13 +80,13 @@ if os.path.exists("Config.env"):
     load_dotenv("Config.env")
 
 
-API_ID = int(getenv("API_ID", "0"))
-API_HASH = getenv("API_HASH", "0")
+API_ID = int(getenv("API_ID", "23486718"))
+API_HASH = getenv("API_HASH", "bd055b723a3e35b129c9879758f2d73d")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 STRING_SESSION = getenv("STRING_SESSION", "")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://vishalpandeynkp:Bal6Y6FZeQeoAoqV@cluster0.dzgwt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-OWNER_ID = int(getenv("OWNER_ID", "7400383704"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002043570167"))
+OWNER_ID = int(getenv("OWNER_ID", "7376832219"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001929010431"))
 START_IMAGE_URL = getenv("START_IMAGE_URL", "https://files.catbox.moe/n8rmfh.mp4")
 REPO_IMAGE_URL = getenv("REPO_IMAGE_URL", "https://files.catbox.moe/ywthcz.jpg")
 STATS_IMAGE_URL = getenv("STATS_IMAGE_URL", "https://files.catbox.moe/ywthcz.jpg")
