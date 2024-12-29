@@ -454,11 +454,11 @@ async def start_message_private(client, message):
         await baby.delete()
 
         caption = f"""╭───────────────────▣
-│**❍ ʜᴇʏ {mention} •**
-│**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ  •**
+<pre>│**❍ ʜᴇʏ {mention} •**
+│**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ  •**</pre>
 ├───────────────────▣**
-│**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
-│**❍ ᴍᴀᴅᴇ ʙʏ...[sᴡᴇᴇᴛ & sɪᴍᴘʟᴇ ʀᴀᴊ](https://t.me/CaLL_mE_ShiiV) •**
+<pre>│**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
+│**❍ ᴍᴀᴅᴇ ʙʏ...[sᴡᴇᴇᴛ & sɪᴍᴘʟᴇ ʀᴀᴊ](https://t.me/CaLL_mE_ShiiV) •**<pre>
 ╰───────────────────▣"""
 
         buttons = InlineKeyboardMarkup(
