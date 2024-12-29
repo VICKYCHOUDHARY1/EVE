@@ -356,11 +356,14 @@ CBUTTON = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/krishu_supports"),
-            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/+tHAENx_r_mtlODZl")
+            InlineKeyboardButton("˹ ᴧʟʟ ʙᴏᴛ ˼", url="https://t.me/prishus_support")
         ],
         [
             InlineKeyboardButton("↺ ʙᴧᴄᴋ ↻", callback_data="back_to_home")
-        ]
+        ],
+        [
+            InlineKeyboardButton(text="˹ ❍ᴡɴᴇꝛ ˼",user_id=OWNER_ID,)
+        ]     
     ]
 )
 
@@ -566,7 +569,7 @@ async def back_to_home_menu(client, query):
                 ),
                 InlineKeyboardButton(
                     text="˹ ʀᴇᴘᴏ ˼",
-                    url="https://github.com/BABY-MUSIC/SPOTIFY_MUSIC",  # Callback data for Owner button
+                    url="https://t.me/prishus_support",  # Callback data for Owner button
                 ),
             ]
         ]
