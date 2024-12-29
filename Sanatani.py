@@ -454,8 +454,8 @@ async def start_message_private(client, message):
         await baby.delete()
 
         caption = f"""╭───────────────────▣
-<pre>│**❍ ʜᴇʏ {mention} •**
-│**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ  •**</pre>
+<pre>**❍ ʜᴇʏ {mention} •**
+**❍ ɪ ᴀᴍ ᴀᴋᴀɴᴋꜱʜᴀ ᴍᴜꜱɪᴄ  •**</pre>
 ├───────────────────▣**
 <pre>│**❍ ʙᴇsᴛ ǫᴜɪʟɪᴛʏ ғᴇᴀᴛᴜʀᴇs •**
 │**❍ ᴍᴀᴅᴇ ʙʏ...[sᴡᴇᴇᴛ & sɪᴍᴘʟᴇ ʀᴀᴊ](https://t.me/CaLL_mE_ShiiV) •**<pre>
